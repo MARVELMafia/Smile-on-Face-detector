@@ -5,7 +5,7 @@ A small .py script that detects faces and smiles in realtime
 You need to have Python and OpenCV set up on your Environment.
 
 ## All you need to know
-Machines can learn to recognize happiness and in this tutorial, I’m going to show you how to create a facial recognition model that can do so.
+Machines can learn to recognize happiness and I’m going to show you how to set up a [smile recognition model](https://towardsdatascience.com/facial-recognition-happiness-bbb3c4293d1d) that can do so.
 
 This method uses haar-like features to detect facial properties. The cascade is a series of filters that will apply one after the other to detect a face through its features.
 These filters are stored in their own XML files in the [Haar Cascade GitHub Repository](https://github.com/opencv/opencv/tree/master/data/haarcascades)
