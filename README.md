@@ -17,5 +17,5 @@ These are the cascades for the face and smiles. We must have each one of these f
 
 ### After Above
 
-**Simply run the script from your Terminal or any IDE and see the results for yourself!**
+** **Simply run the script from your Terminal or any IDE and see the results for yourself!** **
 
