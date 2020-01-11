@@ -15,8 +15,17 @@ To build our happiness detector, we need these 3 XML Files:
 
 These are the cascades for the face and smiles. We must have each one of these features if our image is of a happy face. You can download these filed from my Repository or Directly from the [Haar Cascade GitHub Repository](https://github.com/opencv/opencv/tree/master/data/haarcascades). Put all three XML files into the same folder where you will run it from.
 
-### After Above
+### Results
+
+Serious Face
+
+![Serious Face](https://github.com/MARVELMafia/Smile-on-Face-detector/blob/master/Result/No%20Expression.jpg)
+
+Smiling Face
+
+![Smiling](https://github.com/MARVELMafia/Smile-on-Face-detector/blob/master/Result/Smile%20Expression.jpg)
 
 ***Simply run the script from your Terminal or any IDE and see the results for yourself!***
+
 
 
